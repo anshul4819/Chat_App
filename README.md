@@ -26,14 +26,3 @@ npm run dev
 ## Deployed at
 [justalkme.herokuapp.com](http://justalkme.herokuapp.com)
 
-### Some Screenshots
-
-Logging in with email password and creating room
-<img src = "screenshots/1.gif">
-
-
-Logging in with Google and joining a room
-<img src = "screenshots/2.gif">
-
-Chatting
-<img src = "screenshots/3.gif">
